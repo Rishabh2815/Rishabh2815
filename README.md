@@ -1,30 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishabh%20Jha&fontSize=62&fontAlignY=36&desc=Backend%20%26%20Systems%20Engineer&descAlignY=58&descSize=24&animation=fadeIn" width="100%" alt="Rishabh Jha banner"/>
-
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Rishabh Jha - backend and systems engineer"/>
+
 <a href="https://github.com/Rishabh2815">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+distributed+backend+services+in+Go;Writing+multi-threaded+network+software+in+C%2B%2B;Yantrika+1.0+Grand+Finalist;Open+to+Summer+2027+SDE+internships+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=EF4444&center=true&vCenter=true&width=760&lines=Forging+distributed+backend+services+in+Go;Hand-crafting+multi-threaded+network+software+in+C%2B%2B;Yantrika+1.0+Grand+Finalist+%E2%9A%A1;Seeking+a+Summer+2027+SDE+internship+%F0%9F%8F%9B%EF%B8%8F" alt="Typing animation"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jha-756345368)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrishabh2815@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishabh2815)
-![Open to work](https://img.shields.io/badge/Open%20to-Summer%202027%20SDE%20Internships-2ea44f?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=EF4444)](https://www.linkedin.com/in/rishabh-jha-756345368)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:rrishabh2815@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/Rishabh2815)
+![Open to work](https://img.shields.io/badge/OPEN%20TO-SUMMER%202027%20SDE%20INTERNSHIPS-B91C1C?style=for-the-badge)
 
-![Profile views](https://komarev.com/ghpvc/?username=Rishabh2815&label=Profile+views&color=7C3AED&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.0%2F10-blueviolet?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Rishabh2815&label=Mortals+visited&color=B91C1C&labelColor=0D0D0D&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-0D0D0D?style=flat-square&logo=amazonaws&logoColor=EF4444)
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-0D0D0D?style=flat-square&logo=leetcode&logoColor=EF4444)
+![CGPA](https://img.shields.io/badge/CGPA-8.0%2F10-0D0D0D?style=flat-square&labelColor=B91C1C)
+
+<img src="./assets/meander.svg" width="100%" alt=""/>
 
 </div>
 
----
-
-## 👨‍💻 About me
+## 🔱 About me
 
 ```go
 type Rishabh struct {
@@ -32,63 +30,77 @@ type Rishabh struct {
     Education string   // "B.Tech CSE @ ADGIPS (GGSIPU), 2028"
     Languages []string // {"Go", "C++", "Python", "SQL", "JavaScript"}
     Focus     []string // {"Distributed systems", "Concurrency", "Networking", "Cloud"}
-    Looking   string   // "Summer 2027 SDE / Technology internship"
+    Seeking   string   // "Summer 2027 SDE / Technology internship"
 }
 ```
 
-- 🔭 Building **RakshaGrid**, a verified hyperlocal SOS dispatch system, selected for the **Grand Finale of Yantrika 1.0** (Faculty of Technology, University of Delhi)
+- ⚡ Building **RakshaGrid**, a verified hyperlocal SOS dispatch system, selected for the **Grand Finale of Yantrika 1.0** (Faculty of Technology, University of Delhi)
 - ⚙️ I like problems where **correctness under concurrency** and **graceful failure** matter: rate limiting, geo-matching, packet pipelines
 - 🧮 Completed **Striver's SDE Sheet** (C++ solutions on GitHub) and solved **200+ LeetCode problems**
 
----
+<div align="center"><img src="./assets/meander.svg" width="100%" alt=""/></div>
 
-## 🛠️ Tech stack
+## 🏛️ The Pantheon (tech stack)
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=go,cpp,py,js&perline=8" alt="Languages"/>
+**⚔️ Languages**<br/>
+![Go](https://img.shields.io/badge/Go-0D0D0D?style=for-the-badge&logo=go&logoColor=EF4444)
+![C++](https://img.shields.io/badge/C%2B%2B-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=EF4444)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=EF4444)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=EF4444)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=EF4444)
 
-**Backend, data & ML**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=8" alt="Backend and data"/>
-&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**🛡️ Backend, data & ML**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=EF4444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=EF4444)
+![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=for-the-badge&logo=redis&logoColor=EF4444)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=EF4444)
+![WebSockets](https://img.shields.io/badge/WebSockets-0D0D0D?style=for-the-badge&logo=socketdotio&logoColor=EF4444)
+![JWT](https://img.shields.io/badge/JWT-0D0D0D?style=for-the-badge&logo=jsonwebtokens&logoColor=EF4444)
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react&perline=8" alt="Frontend"/>
-&nbsp;![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+**🏺 Frontend**<br/>
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=EF4444)
+![PWA](https://img.shields.io/badge/PWA-0D0D0D?style=for-the-badge&logo=pwa&logoColor=EF4444)
 
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,cmake,git,github,vercel&perline=8" alt="Cloud and DevOps"/>
+**☁️ Cloud & DevOps**<br/>
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonaws&logoColor=EF4444)
+![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=for-the-badge&logo=terraform&logoColor=EF4444)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=EF4444)
+![CMake](https://img.shields.io/badge/CMake-0D0D0D?style=for-the-badge&logo=cmake&logoColor=EF4444)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=EF4444)
+![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=EF4444)
 
-**Observability & testing**<br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=8" alt="Observability"/>
-&nbsp;![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+**👁️ Observability & testing**<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-0D0D0D?style=for-the-badge&logo=prometheus&logoColor=EF4444)
+![Grafana](https://img.shields.io/badge/Grafana-0D0D0D?style=for-the-badge&logo=grafana&logoColor=EF4444)
+![k6](https://img.shields.io/badge/k6-0D0D0D?style=for-the-badge&logo=k6&logoColor=EF4444)
 
 </div>
 
-> **Systems & fundamentals:** REST APIs · Microservices · Multithreading · WebSockets · JWT · Rate Limiting · TCP/IP & TLS · DSA · OOP · System Design (HLD & LLD) · OS · DBMS · Computer Networks
+> **Systems & fundamentals:** REST APIs · Microservices · Multithreading · Rate Limiting · TCP/IP & TLS · DSA · OOP · System Design (HLD & LLD) · OS · DBMS · Computer Networks
 
----
+<div align="center"><img src="./assets/meander.svg" width="100%" alt=""/></div>
 
-## 🚀 Featured projects
+## ⚔️ The Labours (featured projects)
 
 <div align="center">
 
-[![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=Sentinel&theme=tokyonight&hide_border=true)](https://github.com/Rishabh2815/Sentinel)
-[![RakshaGrid](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=RakshaGrid&theme=tokyonight&hide_border=true)](https://github.com/Rishabh2815/RakshaGrid)
-[![WireSpectra](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=WireSpectra&theme=tokyonight&hide_border=true)](https://github.com/Rishabh2815/WireSpectra)
+[![Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=Sentinel&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D0D0D&border_color=7F1D1D&hide_border=false)](https://github.com/Rishabh2815/Sentinel)
+[![RakshaGrid](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=RakshaGrid&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D0D0D&border_color=7F1D1D&hide_border=false)](https://github.com/Rishabh2815/RakshaGrid)
+[![WireSpectra](https://github-readme-stats.vercel.app/api/pin/?username=Rishabh2815&repo=WireSpectra&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D0D0D&border_color=7F1D1D&hide_border=false)](https://github.com/Rishabh2815/WireSpectra)
 
 </div>
 
 ### 🛡️ Sentinel: API gateway with ML-based bot detection
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0D0D0D?style=flat-square&logo=go&logoColor=EF4444)
+![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=flat-square&logo=redis&logoColor=EF4444)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=EF4444)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D0D0D?style=flat-square&logo=scikitlearn&logoColor=EF4444)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=EF4444)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D0D0D?style=flat-square&logo=prometheus&logoColor=EF4444)
+![Grafana](https://img.shields.io/badge/Grafana-0D0D0D?style=flat-square&logo=grafana&logoColor=EF4444)
+![k6](https://img.shields.io/badge/k6-0D0D0D?style=flat-square&logo=k6&logoColor=EF4444)
 
 - Reverse-proxy gateway with **Redis-backed atomic sliding-window rate limiting**, enforcing precise per-client limits under concurrent load
 - ML bot-scoring microservice adjusts each client's limit in real time, built as a **fail-open dependency with a 150 ms timeout** so a model outage never takes the gateway down
@@ -99,13 +111,13 @@ type Rishabh struct {
 | Bot flood, 200 req/s (12,001 requests) | **99.17% rejected** |
 
 ### 🚨 RakshaGrid: verified hyperlocal SOS dispatch
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React%20PWA-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0D0D0D?style=flat-square&logo=go&logoColor=EF4444)
+![React PWA](https://img.shields.io/badge/React%20PWA-0D0D0D?style=flat-square&logo=react&logoColor=EF4444)
+![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=flat-square&logo=redis&logoColor=EF4444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=EF4444)
+![WebSocket](https://img.shields.io/badge/WebSocket-0D0D0D?style=flat-square&logo=socketdotio&logoColor=EF4444)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=EF4444)
+![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=EF4444)
 
 - **Redis geospatial search** matches a verified SOS to the nearest available verified responder, with **auto-escalation** if nobody acknowledges in time (targeting sub-second matching)
 - Real-time **WebSocket** alerts, **JWT** auth, a **multi-tenant PostgreSQL** schema, and an **append-only audit trail** feeding an admin compliance dashboard
@@ -113,32 +125,32 @@ type Rishabh struct {
 - Core dispatch logic unit-tested using Go interface fakes
 
 ### 📡 WireSpectra: multi-threaded deep packet inspection engine
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![PCAP](https://img.shields.io/badge/PCAP-4B8BBE?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=flat-square)
-![TLS](https://img.shields.io/badge/TLS%20SNI-2E7D32?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-0D0D0D?style=flat-square&logo=cplusplus&logoColor=EF4444)
+![CMake](https://img.shields.io/badge/CMake-0D0D0D?style=flat-square&logo=cmake&logoColor=EF4444)
+![PCAP](https://img.shields.io/badge/PCAP-0D0D0D?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0D0D0D?style=flat-square)
+![TLS SNI](https://img.shields.io/badge/TLS%20SNI-0D0D0D?style=flat-square)
 
 - Parses **Ethernet/IP/TCP** headers from PCAP captures and tracks connections in a **5-tuple flow table**
 - Identifies applications by extracting **SNI from TLS Client Hello** packets; enforces per-flow blocking by source IP, application and domain
 - Load-balancer threads feed fast-path workers over **thread-safe queues** with **hash-based flow affinity**, so every packet of a connection reaches the same worker
 
----
+<div align="center"><img src="./assets/meander.svg" width="100%" alt=""/></div>
 
-## 📊 GitHub stats
+## 📊 Trials & stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh2815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2815&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishabh2815&show_icons=true&count_private=true&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D0D0D&border_color=7F1D1D&hide_border=false" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh2815&layout=compact&title_color=EF4444&icon_color=DC2626&text_color=E5E7EB&bg_color=0D0D0D&border_color=7F1D1D&hide_border=false" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Rishabh2815&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Rishabh2815&background=0D0D0D&border=7F1D1D&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=EF4444&dates=9CA3AF" alt="GitHub streak"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/meander.svg" width="100%" alt=""/></div>
 
-## 🏆 Highlights
+## 🏆 Honours
 
 | | |
 |---|---|
@@ -147,17 +159,15 @@ type Rishabh struct {
 | ☁️ | **AWS Cloud Practitioner Essentials** certified |
 | 🎓 | B.Tech CSE, **CGPA 8.0 / 10**, expected 2028 |
 
----
-
-## 📫 Let's connect
+## 📫 Summon me
 
 <div align="center">
 
 I'm actively looking for **Summer 2027 SDE / Technology internships**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jha-756345368)
-[![Email](https://img.shields.io/badge/Email-rrishabh2815%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrishabh2815@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=EF4444)](https://www.linkedin.com/in/rishabh-jha-756345368)
+[![Email](https://img.shields.io/badge/Email-rrishabh2815%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:rrishabh2815@gmail.com)
+
+<img src="./assets/meander.svg" width="100%" alt=""/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
